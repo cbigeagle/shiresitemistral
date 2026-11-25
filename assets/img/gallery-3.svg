@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="The east pasture at golden hour with a low sun over rolling hills">
+  <defs>
+    <linearGradient id="g3sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f9d9a0"/>
+      <stop offset="0.55" stop-color="#f7c98a"/>
+      <stop offset="1" stop-color="#f0b877"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g3sky)"/>
+  <circle cx="560" cy="330" r="110" fill="#f7d774" opacity="0.35"/>
+  <circle cx="560" cy="330" r="62" fill="#fbe3a1"/>
+  <g stroke="#8a5a33" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.8">
+    <path d="M150 130 q9 -11 18 0 q9 -11 18 0"/>
+    <path d="M210 105 q7 -9 14 0 q7 -9 14 0"/>
+  </g>
+  <path d="M0 380 C220 340 480 380 800 350 L800 600 L0 600 Z" fill="#d9b56a"/>
+  <path d="M0 460 C260 430 540 470 800 445 L800 600 L0 600 Z" fill="#c2a054"/>
+  <path d="M0 540 C280 515 560 550 800 530 L800 600 L0 600 Z" fill="#a8873f"/>
+  <path d="M330 600 C380 540 470 500 545 470 C580 455 600 430 610 400 L660 410 C640 450 610 480 560 505 C490 540 430 575 400 600 Z" fill="#e8cf96" opacity="0.9"/>
+  <g stroke="#8a6a33" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.7">
+    <path d="M100 500 q4 -14 8 0 M112 504 q6 -16 10 -2"/>
+    <path d="M680 520 q4 -14 8 0 M692 524 q6 -16 10 -2"/>
+    <path d="M220 570 q4 -14 8 0"/>
+  </g>
+  <g fill="#8a4a2c" opacity="0.85">
+    <circle cx="150" cy="540" r="5"/><circle cx="640" cy="560" r="5"/><circle cx="720" cy="500" r="5"/>
+  </g>
+</svg>

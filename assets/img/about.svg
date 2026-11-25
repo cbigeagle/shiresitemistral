@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Illustration of the farm: a red barn, a round-doored studio shed on a hill, fences and rolling pastures">
+  <defs>
+    <linearGradient id="asky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#aed4e8"/>
+      <stop offset="0.6" stop-color="#e3ecda"/>
+      <stop offset="1" stop-color="#f4eeda"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="640" fill="url(#asky)"/>
+  <circle cx="740" cy="110" r="70" fill="#f7d774" opacity="0.3"/>
+  <circle cx="740" cy="110" r="40" fill="#f7d774"/>
+
+  <g fill="#ffffff" opacity="0.9">
+    <ellipse cx="160" cy="100" rx="55" ry="20"/><ellipse cx="210" cy="88" rx="42" ry="17"/>
+    <ellipse cx="480" cy="70" rx="48" ry="18"/><ellipse cx="520" cy="60" rx="36" ry="15"/>
+  </g>
+
+  <path d="M0 300 C180 250 360 290 540 268 C700 250 820 280 900 262 L900 640 L0 640 Z" fill="#b7cd9e"/>
+  <path d="M0 400 C200 356 420 402 640 378 C760 364 840 386 900 376 L900 640 L0 640 Z" fill="#8fae6b"/>
+  <path d="M0 500 C220 462 460 502 900 470 L900 640 L0 640 Z" fill="#6f9450"/>
+
+  <!-- red barn -->
+  <g>
+    <rect x="120" y="330" width="200" height="150" fill="#a8432f"/>
+    <path d="M104 336 L220 258 L336 336 Z" fill="#7c2f22"/>
+    <path d="M150 336 L220 284 L290 336 Z" fill="#f4efe0"/>
+    <rect x="196" y="392" width="48" height="88" fill="#7c2f22"/>
+    <path d="M196 392 L244 480 M244 392 L196 480" stroke="#f4efe0" stroke-width="5"/>
+    <rect x="206" y="300" width="28" height="26" fill="#ffe9b8" stroke="#7c2f22" stroke-width="4"/>
+    <line x1="120" y1="420" x2="320" y2="420" stroke="#7c2f22" stroke-width="4" opacity="0.5"/>
+  </g>
+
+  <!-- silo -->
+  <g>
+    <rect x="336" y="330" width="52" height="150" rx="6" fill="#cfc8b8"/>
+    <path d="M336 336 C336 312 388 312 388 336 Z" fill="#8f4a2c"/>
+  </g>
+
+  <!-- studio shed with round door -->
+  <g transform="translate(640 400)">
+    <path d="M-90 40 C-60 -30 60 -30 90 40 L90 70 L-90 70 Z" fill="#5d8440"/>
+    <circle cx="0" cy="18" r="34" fill="#8a5a33"/>
+    <circle cx="0" cy="18" r="27" fill="#3e6b34"/>
+    <circle cx="-8" cy="8" r="6" fill="#ffe9b8"/>
+    <circle cx="12" cy="22" r="4" fill="#e8b64c"/>
+    <rect x="34" y="-26" width="14" height="30" rx="3" fill="#b4643c"/>
+  </g>
+
+  <!-- tree -->
+  <g>
+    <path d="M84 470 C88 430 80 402 92 372 L106 372 C98 402 108 430 110 470 Z" fill="#6b4a2f"/>
+    <circle cx="98" cy="340" r="48" fill="#4f7a3a"/>
+    <circle cx="62" cy="364" r="30" fill="#5d8a44"/>
+    <circle cx="134" cy="362" r="32" fill="#5d8a44"/>
+  </g>
+
+  <!-- fence -->
+  <g fill="#8a6a44">
+    <rect x="380" y="470" width="9" height="42" rx="3"/>
+    <rect x="430" y="476" width="9" height="42" rx="3"/>
+    <rect x="480" y="482" width="9" height="42" rx="3"/>
+    <rect x="530" y="488" width="9" height="42" rx="3"/>
+  </g>
+  <g fill="#9a7850">
+    <rect x="374" y="480" width="170" height="6" rx="3"/>
+    <rect x="374" y="498" width="170" height="6" rx="3"/>
+  </g>
+
+  <!-- path -->
+  <path d="M470 640 C500 590 560 560 622 540 L660 552 C600 576 552 606 528 640 Z" fill="#ddcba2"/>
+
+  <!-- grass and flowers -->
+  <g stroke="#4c7336" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M60 560 q4 -14 8 0 M72 564 q6 -16 10 -2"/>
+    <path d="M300 560 q4 -14 8 0 M312 564 q6 -16 10 -2"/>
+    <path d="M720 580 q4 -14 8 0 M732 584 q6 -16 10 -2"/>
+    <path d="M830 540 q4 -14 8 0"/>
+  </g>
+  <g>
+    <circle cx="240" cy="580" r="5" fill="#e8b64c"/>
+    <circle cx="420" cy="600" r="5" fill="#d98a8a"/>
+    <circle cx="700" cy="610" r="5" fill="#ffffff"/>
+    <circle cx="120" cy="610" r="5" fill="#e8b64c"/>
+    <circle cx="560" cy="560" r="5" fill="#ffffff"/>
+  </g>
+
+  <!-- sheep -->
+  <g transform="translate(180 560)">
+    <ellipse cx="0" cy="0" rx="30" ry="19" fill="#fdfbf3" stroke="#d8d2c0" stroke-width="2"/>
+    <circle cx="-28" cy="-8" r="9" fill="#4a3f35"/>
+    <line x1="-14" y1="16" x2="-14" y2="27" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+    <line x1="2" y1="18" x2="2" y2="29" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+    <line x1="16" y1="16" x2="16" y2="27" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

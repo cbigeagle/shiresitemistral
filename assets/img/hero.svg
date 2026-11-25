@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810" preserveAspectRatio="xMidYMax slice" role="img" aria-label="A round green hobbit door set into a grassy hill on a farm under a bright summer sky">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#aed4e8"/>
+      <stop offset="0.5" stop-color="#d9e8d5"/>
+      <stop offset="1" stop-color="#f4eeda"/>
+    </linearGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7ba055"/>
+      <stop offset="1" stop-color="#5d8440"/>
+    </linearGradient>
+    <clipPath id="doorClip"><circle cx="980" cy="642" r="80"/></clipPath>
+  </defs>
+
+  <rect width="1440" height="810" fill="url(#sky)"/>
+
+  <circle cx="1150" cy="150" r="100" fill="#f7d774" opacity="0.28"/>
+  <circle cx="1150" cy="150" r="56" fill="#f7d774"/>
+
+  <g fill="#ffffff" opacity="0.9">
+    <ellipse cx="260" cy="130" rx="70" ry="26"/><ellipse cx="320" cy="115" rx="55" ry="22"/><ellipse cx="205" cy="118" rx="45" ry="18"/>
+    <ellipse cx="700" cy="90" rx="60" ry="22"/><ellipse cx="750" cy="78" rx="45" ry="18"/>
+    <ellipse cx="1010" cy="240" rx="65" ry="22"/><ellipse cx="1065" cy="228" rx="45" ry="18"/>
+  </g>
+
+  <g stroke="#5a6a78" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M430 190 q10 -12 20 0 q10 -12 20 0"/>
+    <path d="M490 160 q8 -10 16 0 q8 -10 16 0"/>
+  </g>
+
+  <path d="M0 430 C240 362 430 402 640 382 C880 358 1120 412 1440 368 L1440 810 L0 810 Z" fill="#b7cd9e"/>
+
+  <g transform="translate(350 452) scale(0.42)">
+    <circle r="46" fill="#8a5a33"/><circle r="38" fill="#3e6b34"/><circle cx="16" cy="6" r="5" fill="#e8b64c"/>
+  </g>
+
+  <path d="M0 520 C260 468 520 522 780 492 C1040 462 1240 522 1440 500 L1440 810 L0 810 Z" fill="#8fae6b"/>
+  <path d="M0 660 C240 610 480 652 720 626 C900 608 1080 586 1260 612 C1340 622 1400 632 1440 626 L1440 810 L0 810 Z" fill="url(#grass)"/>
+
+  <path d="M946 716 C930 748 880 772 812 796 C770 809 730 810 700 810 L1030 810 C1058 782 1052 742 1014 716 Z" fill="#ddcba2"/>
+
+  <g>
+    <rect x="1058" y="540" width="30" height="58" rx="4" fill="#b4643c"/>
+    <rect x="1052" y="532" width="42" height="12" rx="4" fill="#8f4a2c"/>
+    <circle cx="1073" cy="514" r="8" fill="#ffffff" opacity="0.55"/>
+    <circle cx="1084" cy="496" r="11" fill="#ffffff" opacity="0.4"/>
+  </g>
+
+  <circle cx="980" cy="642" r="92" fill="#8a5a33"/>
+  <circle cx="980" cy="642" r="80" fill="#3e6b34"/>
+  <g clip-path="url(#doorClip)">
+    <g stroke="#315c2b" stroke-width="4">
+      <line x1="936" y1="560" x2="936" y2="726"/>
+      <line x1="958" y1="560" x2="958" y2="726"/>
+      <line x1="980" y1="560" x2="980" y2="726"/>
+      <line x1="1002" y1="560" x2="1002" y2="726"/>
+      <line x1="1024" y1="560" x2="1024" y2="726"/>
+    </g>
+    <rect x="900" y="634" width="160" height="12" fill="#315c2b"/>
+  </g>
+  <circle cx="980" cy="600" r="15" fill="#ffe9b8" stroke="#7a5230" stroke-width="5"/>
+  <circle cx="1016" cy="656" r="8" fill="#e8b64c" stroke="#7a5230" stroke-width="3"/>
+
+  <g stroke="#4c7336" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M860 640 q4 -14 8 0 M872 644 q6 -18 10 -2"/>
+    <path d="M1100 640 q4 -14 8 0 M1112 644 q6 -16 10 -2"/>
+    <path d="M760 692 q4 -14 8 0 M772 696 q6 -16 10 -2"/>
+    <path d="M1180 692 q4 -14 8 0"/>
+    <path d="M420 702 q4 -14 8 0 M432 706 q6 -16 10 -2"/>
+    <path d="M180 742 q4 -14 8 0 M192 746 q6 -16 10 -2"/>
+  </g>
+
+  <g>
+    <circle cx="820" cy="668" r="5" fill="#e8b64c"/><circle cx="1120" cy="668" r="5" fill="#d98a8a"/>
+    <circle cx="700" cy="730" r="5" fill="#ffffff"/><circle cx="1240" cy="722" r="5" fill="#e8b64c"/>
+    <circle cx="380" cy="742" r="5" fill="#d98a8a"/><circle cx="560" cy="772" r="5" fill="#ffffff"/>
+    <circle cx="960" cy="772" r="5" fill="#e8b64c"/>
+  </g>
+
+  <g>
+    <path d="M238 580 C242 524 232 484 246 442 L264 442 C254 484 266 524 268 580 Z" fill="#6b4a2f"/>
+    <circle cx="252" cy="398" r="72" fill="#4f7a3a"/>
+    <circle cx="198" cy="432" r="46" fill="#5d8a44"/>
+    <circle cx="306" cy="430" r="48" fill="#5d8a44"/>
+    <circle cx="252" cy="352" r="50" fill="#679a4c"/>
+  </g>
+
+  <g>
+    <path d="M1298 640 C1301 600 1294 572 1304 540 L1318 540 C1310 572 1319 600 1321 640 Z" fill="#6b4a2f"/>
+    <circle cx="1310" cy="512" r="52" fill="#4f7a3a"/>
+    <circle cx="1272" cy="536" r="34" fill="#5d8a44"/>
+    <circle cx="1348" cy="534" r="34" fill="#5d8a44"/>
+  </g>
+
+  <g fill="#8a6a44">
+    <rect x="1128" y="640" width="10" height="48" rx="3"/>
+    <rect x="1178" y="646" width="10" height="48" rx="3"/>
+    <rect x="1228" y="652" width="10" height="48" rx="3"/>
+    <rect x="1278" y="658" width="10" height="48" rx="3"/>
+    <rect x="1328" y="664" width="10" height="48" rx="3"/>
+    <rect x="1378" y="670" width="10" height="48" rx="3"/>
+  </g>
+  <g fill="#9a7850">
+    <rect x="1120" y="652" width="278" height="7" rx="3"/>
+    <rect x="1120" y="672" width="278" height="7" rx="3"/>
+  </g>
+
+  <g>
+    <ellipse cx="560" cy="706" rx="34" ry="22" fill="#fdfbf3" stroke="#d8d2c0" stroke-width="2"/>
+    <circle cx="528" cy="696" r="10" fill="#4a3f35"/>
+    <line x1="544" y1="724" x2="544" y2="736" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+    <line x1="560" y1="726" x2="560" y2="738" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+    <line x1="576" y1="724" x2="576" y2="736" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(680 742) scale(0.8)">
+    <ellipse cx="0" cy="0" rx="34" ry="22" fill="#fdfbf3" stroke="#d8d2c0" stroke-width="2"/>
+    <circle cx="-32" cy="-10" r="10" fill="#4a3f35"/>
+    <line x1="-16" y1="18" x2="-16" y2="30" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+    <line x1="0" y1="20" x2="0" y2="32" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+    <line x1="16" y1="18" x2="16" y2="30" stroke="#4a3f35" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

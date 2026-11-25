@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Sheep grazing in the lea below the hill — family mini-session spot">
+  <defs>
+    <linearGradient id="g5sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#aed4e8"/><stop offset="1" stop-color="#eef0dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g5sky)"/>
+  <g fill="#ffffff" opacity="0.9">
+    <ellipse cx="170" cy="90" rx="62" ry="22"/><ellipse cx="222" cy="76" rx="46" ry="18"/>
+    <ellipse cx="580" cy="130" rx="55" ry="20"/><ellipse cx="626" cy="118" rx="40" ry="16"/>
+  </g>
+  <path d="M0 320 C200 280 440 320 800 292 L800 600 L0 600 Z" fill="#b7cd9e"/>
+  <path d="M0 420 C240 385 520 425 800 398 L800 600 L0 600 Z" fill="#8fae6b"/>
+  <path d="M0 510 C260 480 540 518 800 496 L800 600 L0 600 Z" fill="#6f9450"/>
+
+  <!-- distant tree -->
+  <g transform="translate(120 400)">
+    <path d="M-8 40 C-6 10 -12 -8 -2 -30 L10 -30 C2 -8 10 10 12 40 Z" fill="#6b4a2f"/>
+    <circle cx="2" cy="-46" r="34" fill="#4f7a3a"/>
+    <circle cx="-24" cy="-28" r="22" fill="#5d8a44"/>
+    <circle cx="28" cy="-28" r="23" fill="#5d8a44"/>
+  </g>
+
+  <!-- sheep -->
+  <g transform="translate(300 500)">
+    <ellipse cx="0" cy="0" rx="42" ry="27" fill="#fdfbf3" stroke="#d8d2c0" stroke-width="2.5"/>
+    <circle cx="-40" cy="-10" r="12" fill="#4a3f35"/>
+    <line x1="-18" y1="22" x2="-18" y2="38" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+    <line x1="0" y1="25" x2="0" y2="41" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+    <line x1="18" y1="22" x2="18" y2="38" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(520 540) scale(0.75)">
+    <ellipse cx="0" cy="0" rx="42" ry="27" fill="#fdfbf3" stroke="#d8d2c0" stroke-width="2.5"/>
+    <circle cx="40" cy="-10" r="12" fill="#4a3f35"/>
+    <line x1="-18" y1="22" x2="-18" y2="38" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+    <line x1="0" y1="25" x2="0" y2="41" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+    <line x1="18" y1="22" x2="18" y2="38" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(660 470) scale(0.55)">
+    <ellipse cx="0" cy="0" rx="42" ry="27" fill="#fdfbf3" stroke="#d8d2c0" stroke-width="2.5"/>
+    <circle cx="-40" cy="-10" r="12" fill="#4a3f35"/>
+    <line x1="-18" y1="22" x2="-18" y2="38" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+    <line x1="0" y1="25" x2="0" y2="41" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+    <line x1="18" y1="22" x2="18" y2="38" stroke="#4a3f35" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <g stroke="#4c7336" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M120 560 q5 -16 10 0 M134 564 q7 -20 12 -2"/>
+    <path d="M420 580 q5 -16 10 0 M434 584 q7 -20 12 -2"/>
+  </g>
+  <g>
+    <circle cx="180" cy="575" r="6" fill="#e8b64c"/>
+    <circle cx="380" cy="590" r="6" fill="#d98a8a"/>
+    <circle cx="600" cy="585" r="6" fill="#ffffff"/>
+  </g>
+</svg>
