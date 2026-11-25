@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="The red barn studio on a clear day — the rain-day shooting space">
+  <defs>
+    <linearGradient id="g4sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#aed4e8"/><stop offset="1" stop-color="#eef0dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g4sky)"/>
+  <circle cx="130" cy="100" r="42" fill="#f7d774"/>
+  <circle cx="130" cy="100" r="70" fill="#f7d774" opacity="0.3"/>
+  <g fill="#ffffff" opacity="0.9">
+    <ellipse cx="600" cy="90" rx="60" ry="22"/><ellipse cx="650" cy="76" rx="44" ry="18"/>
+  </g>
+  <path d="M0 340 C200 300 460 340 800 312 L800 600 L0 600 Z" fill="#b7cd9e"/>
+  <path d="M0 430 C240 400 520 440 800 415 L800 600 L0 600 Z" fill="#8fae6b"/>
+  <path d="M0 520 C260 495 540 530 800 510 L800 600 L0 600 Z" fill="#6f9450"/>
+
+  <!-- barn -->
+  <g>
+    <rect x="270" y="330" width="260" height="190" fill="#a8432f"/>
+    <path d="M248 336 L400 240 L552 336 Z" fill="#7c2f22"/>
+    <path d="M310 336 L400 276 L490 336 Z" fill="#f4efe0"/>
+    <rect x="368" y="410" width="64" height="110" fill="#7c2f22"/>
+    <path d="M368 410 L432 520 M432 410 L368 520" stroke="#f4efe0" stroke-width="6"/>
+    <rect x="384" y="286" width="32" height="30" fill="#ffe9b8" stroke="#7c2f22" stroke-width="5"/>
+    <line x1="270" y1="430" x2="530" y2="430" stroke="#7c2f22" stroke-width="5" opacity="0.5"/>
+    <line x1="270" y1="470" x2="530" y2="470" stroke="#7c2f22" stroke-width="4" opacity="0.35"/>
+  </g>
+
+  <!-- silo -->
+  <g>
+    <rect x="548" y="350" width="56" height="170" rx="6" fill="#cfc8b8"/>
+    <path d="M548 356 C548 330 604 330 604 356 Z" fill="#8f4a2c"/>
+    <rect x="560" y="380" width="32" height="10" rx="4" fill="#8f8578"/>
+  </g>
+
+  <!-- fence -->
+  <g fill="#8a6a44">
+    <rect x="80" y="470" width="10" height="46" rx="3"/>
+    <rect x="130" y="476" width="10" height="46" rx="3"/>
+    <rect x="180" y="482" width="10" height="46" rx="3"/>
+    <rect x="660" y="480" width="10" height="46" rx="3"/>
+    <rect x="710" y="486" width="10" height="46" rx="3"/>
+    <rect x="760" y="492" width="10" height="46" rx="3"/>
+  </g>
+  <g fill="#9a7850">
+    <rect x="72" y="480" width="126" height="7" rx="3"/>
+    <rect x="72" y="500" width="126" height="7" rx="3"/>
+    <rect x="652" y="490" width="126" height="7" rx="3"/>
+    <rect x="652" y="510" width="126" height="7" rx="3"/>
+  </g>
+
+  <g stroke="#4c7336" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M40 580 q5 -16 10 0 M54 584 q7 -20 12 -2"/>
+    <path d="M620 580 q5 -16 10 0 M634 584 q7 -20 12 -2"/>
+  </g>
+  <g>
+    <circle cx="240" cy="580" r="6" fill="#e8b64c"/>
+    <circle cx="580" cy="590" r="6" fill="#d98a8a"/>
+    <circle cx="740" cy="570" r="6" fill="#ffffff"/>
+  </g>
+</svg>

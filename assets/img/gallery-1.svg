@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="The round green door set into a hillside — signature portrait backdrop">
+  <defs>
+    <linearGradient id="g1sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#aed4e8"/><stop offset="1" stop-color="#f4eeda"/>
+    </linearGradient>
+    <clipPath id="g1door"><circle cx="400" cy="400" r="105"/></clipPath>
+  </defs>
+  <rect width="800" height="600" fill="url(#g1sky)"/>
+  <circle cx="640" cy="110" r="80" fill="#f7d774" opacity="0.3"/>
+  <circle cx="640" cy="110" r="44" fill="#f7d774"/>
+  <g fill="#ffffff" opacity="0.9">
+    <ellipse cx="150" cy="100" rx="60" ry="22"/><ellipse cx="200" cy="86" rx="44" ry="18"/>
+  </g>
+  <path d="M0 340 C200 290 420 330 800 280 L800 600 L0 600 Z" fill="#8fae6b"/>
+  <path d="M0 420 C240 380 520 420 800 390 L800 600 L0 600 Z" fill="#6f9450"/>
+  <path d="M368 502 C356 536 320 566 268 590 L540 600 C556 566 548 530 432 502 Z" fill="#ddcba2"/>
+  <g>
+    <rect x="520" y="300" width="26" height="52" rx="4" fill="#b4643c"/>
+    <rect x="515" y="292" width="36" height="11" rx="4" fill="#8f4a2c"/>
+    <circle cx="533" cy="276" r="7" fill="#ffffff" opacity="0.5"/>
+  </g>
+  <circle cx="400" cy="400" r="120" fill="#8a5a33"/>
+  <circle cx="400" cy="400" r="105" fill="#3e6b34"/>
+  <g clip-path="url(#g1door)">
+    <g stroke="#315c2b" stroke-width="5">
+      <line x1="340" y1="290" x2="340" y2="512"/>
+      <line x1="370" y1="290" x2="370" y2="512"/>
+      <line x1="400" y1="290" x2="400" y2="512"/>
+      <line x1="430" y1="290" x2="430" y2="512"/>
+      <line x1="460" y1="290" x2="460" y2="512"/>
+    </g>
+    <rect x="295" y="390" width="210" height="15" fill="#315c2b"/>
+  </g>
+  <circle cx="400" cy="346" r="19" fill="#ffe9b8" stroke="#7a5230" stroke-width="6"/>
+  <circle cx="442" cy="420" r="10" fill="#e8b64c" stroke="#7a5230" stroke-width="4"/>
+  <g stroke="#4c7336" stroke-width="3.5" stroke-linecap="round" fill="none">
+    <path d="M240 440 q5 -16 10 0 M254 444 q7 -20 12 -2"/>
+    <path d="M560 440 q5 -16 10 0 M574 444 q7 -20 12 -2"/>
+    <path d="M140 520 q5 -16 10 0 M154 524 q7 -20 12 -2"/>
+    <path d="M660 520 q5 -16 10 0"/>
+  </g>
+  <g>
+    <circle cx="290" cy="470" r="6" fill="#e8b64c"/><circle cx="520" cy="470" r="6" fill="#d98a8a"/>
+    <circle cx="180" cy="560" r="6" fill="#ffffff"/><circle cx="620" cy="560" r="6" fill="#e8b64c"/>
+  </g>
+</svg>
